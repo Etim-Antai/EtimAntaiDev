@@ -4,7 +4,7 @@ Welcome to **EtimAntaiDev**, my personal portfolio repository! This project show
 
 ## 🔗 Live Demo
 
-Explore the live version of my portfolio [here](#) (replace with your live link).
+Explore the live version of my portfolio [here](#) 
 
 ## 📁 Project Structure
 
@@ -19,19 +19,11 @@ Explore the live version of my portfolio [here](#) (replace with your live link)
 - **Project Highlights**: Features a selection of my most significant projects.
 - **Contact Section**: Includes a contact form for visitors to get in touch easily.
 
-## 🛠️ Technologies Used
 
-- **HTML5**: Markup language used to structure the website.
-- **CSS3**: Stylesheet language used for the design and visual layout.
-- **JavaScript**: Programming language used to add interactive elements.
 
-## 📊 Key Projects
 
-- **Project A**: A detailed look at a standout project showcasing my technical skills.
-- **Project B**: Demonstrates my expertise in solving complex problems.
-- **Project C**: Highlights innovative solutions I've implemented.
 
-## 📫 Contact
+
 
 Feel free to reach out to me through any of the following channels:
 
